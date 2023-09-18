@@ -11,7 +11,7 @@ O chat em Java possui os seguintes recursos:
 
 4. `Envio de Mensagens`: Os usuários podem enviar mensagens de texto para as salas de chat em que estão participando.
 
-### Requisitos
+## Requisitos
 O chat é desenvolvido em Java, portanto, é necessário ter o ambiente de execução `Java` instalado em seu sistema.
 
 *Espero que façam bom proveito da aplicação.*
