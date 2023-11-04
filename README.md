@@ -15,3 +15,6 @@ O chat em Java possui os seguintes recursos:
 O chat é desenvolvido em Java, portanto, é necessário ter o ambiente de execução `Java` instalado em seu sistema.
 
 *Espero que façam bom proveito da aplicação.*
+
+##  **Meu Linked** ![logo](https://github.com/CodeByCarlos01/language-DSL/assets/107969946/aefba453-727d-4b05-ad1c-7e932947ba90) :
+https://www.linkedin.com/in/carlos-eduh/ 👍
